@@ -1,0 +1,40 @@
+button {
+    margin-bottom: 15px;
+}
+
+button:hover {
+  cursor: pointer;
+}
+button:active {
+  opacity: 40%;
+}
+
+.search{
+  width: 100px;
+  border-radius: 20px;
+  color: rgb(2, 223, 193);
+  border-color: rgb(2, 223, 193);
+  border-style: solid;
+  background-color: white;
+
+
+}
+
+
+.plus {
+width: 30px;
+height: 30px;
+border-radius: 50%;
+color: white;
+background-color: rgb(2, 223, 193);
+border: none;
+font-size: larger;
+}
+.create {
+  color: white;
+  background-color: rgb(57, 131, 241);
+  border-color: black;
+  padding: 4px 12px;
+  font-weight: 100;
+  box-shadow: 5px 5px 5px black;
+}
